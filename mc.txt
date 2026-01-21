@@ -1,0 +1,4 @@
+minecraft normal server: smp1213.exaroton.me
+minecraft event server: sm3121p.exaroton.me
+
+The normal server will reset and it will be CREATE MOD!
